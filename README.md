@@ -23,16 +23,13 @@ render () {
         <Flex>Hey!</Flex>
       </Column>
       <Column>
-        <Flex>I'm a column</Flex>
-        <Flex>I'm a column too</Flex>
+        <Flex>Im a column</Flex>
+        <Flex>Im a column too</Flex>
       </Column>
     </Row>
   )
 }
 ```
-
-className
-componentStyle
 
 ## API
 | Param          | Type    | required |
