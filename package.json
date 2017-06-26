@@ -1,0 +1,53 @@
+{
+  "name": "react-flexbox-helpers",
+  "version": "0.1.0",
+  "description": "React flexbox helper components",
+  "main": "./dist/react-flexbox-helpers.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanford/react-flexbox-helpers.git"
+  },
+  "homepage": "https://github.com/hanford/react-flexbox-helpers",
+  "bugs": "https://github.com/hanford/react-flexbox-helpers/issues",
+  "scripts": {
+    "build": "webpack -p"
+  },
+  "authors": [
+    "Jack Hanford"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "~6.24.1",
+    "babel-loader": "~6.4.1",
+    "babel-preset-env": "~1.5.2",
+    "babel-preset-react": "~6.24.1",
+    "babel-preset-stage-0": "~6.24.1",
+    "react": "~15.5.3",
+    "react-dom": "~15.5.3",
+    "styled-jsx": "~0.5.7",
+    "webpack": "~2.3.3"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0"
+  },
+  "tags": [
+    "react",
+    "flexbox",
+    "component",
+    "helper",
+    "grid",
+    "row",
+    "column"
+  ],
+  "keywords": [
+    "react",
+    "flexbox",
+    "component",
+    "helper",
+    "grid",
+    "row",
+    "column"
+  ]
+}
